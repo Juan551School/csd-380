@@ -1,2 +1,5 @@
-# csd-380
-Juan551School/csd-380 Class
+# CSD 380 DevOps
+
+## Contributors
+- Instructor: Adam Bailey 
+- Student: Juan Macias Vasquez 
